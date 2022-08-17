@@ -491,12 +491,12 @@ footer {
   letter-spacing: 0.03em;
   text-transform: uppercase;
 
-  color: #404040;
+  color: #d9d9d9;
   transform: rotate(-90deg);
 }
 .availability::after {
   content: "";
-  background-color: #404040;
+  background-color: #d9d9d9;
   margin-left: 10px;
   display: inline-block;
   width: 10px;
