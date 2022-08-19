@@ -263,7 +263,7 @@ nav ul li {
 #third {
   position: relative;
   width: 100%;
-  height: auto;
+/*height: 100vh*/
   background: #a1c3cd;
 }
 .black {
