@@ -287,6 +287,7 @@ nav ul li {
   margin-top: 8.5rem;
   justify-content: center;
   align-items: center;
+  gap: 40px;
   padding-bottom: 5rem;
   position: relative;
 }
@@ -353,7 +354,7 @@ input[type="tel"] {
   border: none;
 }
 .form-wrap {
-  width: 40%;
+  width: 60%;
   margin: 0 auto;
   padding: 0;
   position: relative;
