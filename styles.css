@@ -8,9 +8,6 @@ body {
   margin: 0;
   background: #8ab4c0;
 }
-body::-webkit-scrollbar {
-  display: none;
-}
 
 /* .video-cont {
   width: 100%;
@@ -681,4 +678,7 @@ footer {
     overflow: hidden;
     margin-top: 6rem;
   }
+  body::-webkit-scrollbar {
+  display: none;
+}
 }
