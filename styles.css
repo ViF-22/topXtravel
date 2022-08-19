@@ -679,4 +679,6 @@ footer {
   nav ul li {
     font-size: 1.3rem;
   }
+  .slide{
+    width: 100%;
 }
