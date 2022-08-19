@@ -643,9 +643,6 @@ footer {
   #second {
     height: auto;
   }
-  .slide-photos {
-    margin-top: 6rem;
-  }
   #third .title {
     line-height: 35px;
   }
@@ -679,6 +676,9 @@ footer {
   nav ul li {
     font-size: 1.3rem;
   }
-  .slide{
+  slide-photos {
     width: 100%;
+    overflow: hidden;
+    margin-top: 6rem;
+  }
 }
