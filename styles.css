@@ -133,6 +133,9 @@ nav ul li {
   text-align: center;
   bottom: 100px;
 }
+.button:hover {
+  background: rgba(44, 44, 44, 0.5);
+}
 .reserve-button {
   display: flex;
   justify-content: center;
