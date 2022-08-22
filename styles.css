@@ -689,6 +689,10 @@ footer {
     width: 100%;
     overflow: hidden;
   }
+  .text {
+    margin-top: 1rem;
+    font-size: 11px; 
+  }
 }
 
 @media screen and (min-width: 701px) and (max-width: 1020px) {
